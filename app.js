@@ -195,6 +195,8 @@ Exercise 12: FizzBuzz with arrays
          will appear in the `fizz`, `buzz`, and `fizzbuzz` arrays.
 
 Complete Exercise 12 in the space below:
+USING FOR LOOP
+
 let fizz = [];
 let buzz = [];
 let fizzbuzz = [];
@@ -221,7 +223,7 @@ console.log('  buzz:', buzz);
 console.log('  fizzbuzz:', fizzbuzz);
 */
 
-
+// USING FOR...OF LOOP
 let fizz = [];
 let buzz = [];
 let fizzbuzz = [];
